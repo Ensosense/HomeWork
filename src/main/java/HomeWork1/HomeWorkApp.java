@@ -47,5 +47,6 @@ public class HomeWorkApp {
         } else if (a < b) {
             System.out.println("a < b");
         }
+        System.out.println("Test");
     }
 }
