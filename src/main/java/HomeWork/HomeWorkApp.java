@@ -1,4 +1,4 @@
-package HomeWork1;
+package HomeWork;
 
 public class HomeWorkApp {
 
@@ -7,6 +7,8 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
+
+
     }
 
     public static void printThreeWords(){
