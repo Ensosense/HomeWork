@@ -67,13 +67,13 @@ public class lesson_3 {
         System.out.println("The largest value is: " + max);
 
 
-        fillArray(5, 7);
+        a(5, 7);
 
 
     }
 
 
-    public static int[] fillArray(int len, int initialValue) {
+    public static int[] a(int len, int initialValue) {
         int arr[] = new int[len];
 
         for (int i = 0; i < len; i++) {
